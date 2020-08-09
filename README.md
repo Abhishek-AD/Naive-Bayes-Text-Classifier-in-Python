@@ -8,4 +8,4 @@ Sentiment Analysis is the process of determining whether a piece of writing is p
 
 Data set - https://drive.google.com/file/d/1eFTge09pXFbJ671rafpgkNF0XaGaL01L/view -> a1_d3.txt
 
-Accuracy, Precision and F-Score are also been measured and the entire process is documented in the PDF.
+Accuracy, Precision and F-Score are also been measured and the entire process is documented in the PDF(which also contains some theory which was used as a reference to complete the project).
